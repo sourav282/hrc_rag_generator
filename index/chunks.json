@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Northwind Technologies - Leave Policy This policy applies to all full-time employees of Northwind Technologies. Part-time employees receive leave on a pro-rata basis. Annual leave Every full-time employee receives 24 days of paid annual leave per calendar year. Leave must be requested at least 7 days in advance through the HR portal. Requests for more than 10 consecutive days need approval from the department head. Up to 5 unused annual leave days may be carried forward to the next year. Carried-forward days expire on 31 March. Sick leave Employees receive 10 days of paid sick leave per year. A medical certificate is required if sick leave extends beyond 3 consecutive days. Sick leave cannot be carried forward. Parental leave Primary caregivers are entitled to 16 weeks of paid parental leave. Secondary caregivers are entitled to 4 weeks. Parental leave must begin within 6 months of the child's birth or adoption.",
+    "source": "leave_policy.docx",
+    "location": "document (part 1/2)"
+  },
+  {
+    "text": "caregivers are entitled to 16 weeks of paid parental leave. Secondary caregivers are entitled to 4 weeks. Parental leave must begin within 6 months of the child's birth or adoption. Leave summary Leave type | Entitlement | Carry forward Annual | 24 days | Up to 5 days Sick | 10 days | No Parental (primary) | 16 weeks | No Parental (secondary) | 4 weeks | No",
+    "source": "leave_policy.docx",
+    "location": "document (part 2/2)"
+  },
+  {
+    "text": "Nimbus Smart Thermostat - Frequently Asked Questions Setup Q: How do I connect the Nimbus thermostat to Wi-Fi? A: Open the Nimbus app, tap Add Device, and follow the prompts. The thermostat only supports 2.4 GHz Wi-Fi networks. 5 GHz networks are not supported. Q: Which wires does the thermostat need? A: It requires a C-wire (common wire). If your system has no C-wire, use the included power adapter kit.",
+    "source": "nimbus_thermostat_faq.pdf",
+    "location": "page 1"
+  },
+  {
+    "text": "Troubleshooting and warranty Q: How do I factory reset the thermostat? A: Hold the centre dial for 15 seconds until the display shows the word RESET, then release. All schedules and Wi-Fi settings will be erased. Q: What does the flashing red light mean? A: A flashing red light means the battery backup is low. Replace it with a CR2032 battery. Q: What is the warranty period? A: The Nimbus thermostat has a 2-year limited warranty. Damage from incorrect installation is not covered.",
+    "source": "nimbus_thermostat_faq.pdf",
+    "location": "page 2"
+  },
+  {
+    "text": "order_id: ORD-1001 | customer: Asha Verma | product: Nimbus Thermostat | quantity: 2 | status: Delivered | order_date: 2026-08-02 order_id: ORD-1002 | customer: Liam Carter | product: Nimbus Power Adapter Kit | quantity: 1 | status: Delivered | order_date: 2026-08-03 order_id: ORD-1003 | customer: Priya Nair | product: Nimbus Thermostat | quantity: 1 | status: Shipped | order_date: 2026-08-11 order_id: ORD-1004 | customer: Mateo Silva | product: Nimbus CR2032 Battery Pack | quantity: 5 | status: Delivered | order_date: 2026-08-12 order_id: ORD-1005 | customer: Chen Wei | product: Nimbus Thermostat | quantity: 3 | status: Cancelled | order_date: 2026-08-14 order_id: ORD-1006 | customer: Sara Khan | product: Nimbus Power Adapter Kit | quantity: 2 | status: Processing | order_date: 2026-08-19 order_id: ORD-1007 | customer: Noah Fischer | product: Nimbus Thermostat | quantity: 1 | status: Delivered | order_date: 2026-08-21",
+    "source": "orders.csv",
+    "location": "rows 1-7"
+  },
+  {
+    "text": "order_id: ORD-1008 | customer: Ivy Okafor | product: Nimbus CR2032 Battery Pack | quantity: 2 | status: Shipped | order_date: 2026-08-25 order_id: ORD-1009 | customer: Ravi Menon | product: Nimbus Thermostat | quantity: 4 | status: Processing | order_date: 2026-09-01 order_id: ORD-1010 | customer: Emma Rossi | product: Nimbus Power Adapter Kit | quantity: 1 | status: Cancelled | order_date: 2026-09-03",
+    "source": "orders.csv",
+    "location": "rows 8-10"
+  }
+]

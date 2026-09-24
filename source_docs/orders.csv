@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,status,order_date
+ORD-1001,Asha Verma,Nimbus Thermostat,2,Delivered,2026-08-02
+ORD-1002,Liam Carter,Nimbus Power Adapter Kit,1,Delivered,2026-08-03
+ORD-1003,Priya Nair,Nimbus Thermostat,1,Shipped,2026-08-11
+ORD-1004,Mateo Silva,Nimbus CR2032 Battery Pack,5,Delivered,2026-08-12
+ORD-1005,Chen Wei,Nimbus Thermostat,3,Cancelled,2026-08-14
+ORD-1006,Sara Khan,Nimbus Power Adapter Kit,2,Processing,2026-08-19
+ORD-1007,Noah Fischer,Nimbus Thermostat,1,Delivered,2026-08-21
+ORD-1008,Ivy Okafor,Nimbus CR2032 Battery Pack,2,Shipped,2026-08-25
+ORD-1009,Ravi Menon,Nimbus Thermostat,4,Processing,2026-09-01
+ORD-1010,Emma Rossi,Nimbus Power Adapter Kit,1,Cancelled,2026-09-03
